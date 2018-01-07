@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/3/24 10:30:55。
+     1>项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\MainWnd\MainWnd.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MainWnd.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt MainWndDlg.cpp
+         MainWndDlg.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Debug\MainWnd.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Debug" /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Debug\MainWnd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Debug\MainWnd.lib" /MACHINE:X64 x64\Debug\MainWnd.res
+         x64\Debug\MainWnd.obj
+         x64\Debug\MainWndDlg.obj
+         x64\Debug\stdafx.obj
+         MainWnd.vcxproj -> C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Debug\MainWnd.exe
+     1>已完成生成项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\MainWnd\MainWnd.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.68

@@ -1,0 +1,14 @@
+﻿生成启动时间为 2017/3/24 8:45:26。
+     1>项目“c:\Users\DKgint\documents\visual studio 2013\Projects\libUsb\libUsb\libUsb.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\libUsb.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt libUsb.cpp
+         libUsb.cpp
+       Lib:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"c:\users\dkgint\documents\visual studio 2013\Projects\libUsb\Debug\libUsb.lib" /NOLOGO Debug\libUsb.obj
+         Debug\stdafx.obj
+         libUsb.vcxproj -> c:\users\dkgint\documents\visual studio 2013\Projects\libUsb\Debug\libUsb.lib
+     1>已完成生成项目“c:\Users\DKgint\documents\visual studio 2013\Projects\libUsb\libUsb\libUsb.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.46

@@ -1,0 +1,33 @@
+﻿生成启动时间为 2017/3/24 14:16:52。
+     1>项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\Usb\Usb.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Usb.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D USB_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt CloseWindows.cpp DeviceContrl.cpp dllmain.cpp FindReg.cpp ReEnjoin.cpp Service.cpp stdafx.cpp Usb.cpp UsbFilter.cpp
+         CloseWindows.cpp
+         DeviceContrl.cpp
+         dllmain.cpp
+         FindReg.cpp
+         ReEnjoin.cpp
+         Service.cpp
+         stdafx.cpp
+         Usb.cpp
+         UsbFilter.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.lib" /MACHINE:X64 /DLL x64\Release\CloseWindows.obj
+         x64\Release\DeviceContrl.obj
+         x64\Release\dllmain.obj
+         x64\Release\FindReg.obj
+         x64\Release\ReEnjoin.obj
+         x64\Release\Service.obj
+         x64\Release\stdafx.obj
+         x64\Release\Usb.obj
+         x64\Release\UsbFilter.obj
+            正在创建库 C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.lib 和对象 C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.exp
+         正在生成代码
+         已完成代码的生成
+         Usb.vcxproj -> C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\DllUsb.dll
+     1>已完成生成项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\Usb\Usb.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.46

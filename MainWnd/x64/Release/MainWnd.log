@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/3/24 14:16:52。
+     1>项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\MainWnd\MainWnd.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\MainWnd.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\MainWnd.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt MainWnd.cpp MainWndDlg.cpp
+         MainWnd.cpp
+         MainWndDlg.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Release\ /nologo /fo"x64\Release\MainWnd.res" MainWnd.rc 
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\MainWnd.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\Usb\x64\Release" /MANIFEST /MANIFESTUAC:"level='requireAdministrator' uiAccess='false'" /manifest:embed /manifestinput:"E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\MainWnd.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\MainWnd.lib" /MACHINE:X64 x64\Release\MainWnd.res
+         x64\Release\MainWnd.obj
+         x64\Release\MainWndDlg.obj
+         x64\Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         MainWnd.vcxproj -> C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\x64\Release\MainWnd.exe
+     1>已完成生成项目“C:\Users\DKgint\Documents\Visual Studio 2013\Projects\DLL_Usb\MainWnd\MainWnd.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:16.90
